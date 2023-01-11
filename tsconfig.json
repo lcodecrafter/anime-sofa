@@ -18,7 +18,7 @@
     "paths": {
       "@components/*": ["./components/*"],
       "@pages/*": ["./pages/*"],
-      "@storage/*": ["./storage/*"],
+      "@models/*": ["./models/*"],
       "@libs/*": ["./libs/*"]
     }
   },
