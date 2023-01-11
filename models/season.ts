@@ -1,4 +1,4 @@
-import chapter from "./Chapter";
+import chapter from "./chapter";
 
 export default class season {
   constructor(public number: number, public chapters: chapter[]) {
